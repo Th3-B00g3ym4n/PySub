@@ -6,7 +6,7 @@ scan a domain for sub-domains
 ## Usage/example
 
 
-```
+```python
 import pysub
 
 def main():
@@ -15,5 +15,11 @@ def main():
 
 main()
 ```
+
+## installation
+As I don't know how to create pip packages just download the zip
+Navigate to **Users/"user"/AppData/Local/Programs/Python/Python311/Lib/site-packages**
+
+and put the files a new folder named **PySub**
 
  
